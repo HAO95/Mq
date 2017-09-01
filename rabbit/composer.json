@@ -1,0 +1,7 @@
+{
+     "require": {
+      "php-amqplib/php-amqplib": "2.6.1",
+          "jpush/jpush": "v3.5.*",
+          "apache/log4php": " 2.3.0"
+     }
+ }
